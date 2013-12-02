@@ -4,7 +4,7 @@ This program periodically reads analog inputs A0, A1 and A2 from the Galileo boa
 
 To be used with the Solar Panel Shield v2.0. Connect VBAT and solar panel to the A0 and A1 pins in your Galileo Board. 
 
-Use web app https://github.com/ismagom/mqtt-panel-galileo to see the messages in a browser. 
+Use web app https://github.com/ismagom/mqtt-galileo-panel to see the messages in a browser. 
 
 # Compile and Run
 
